@@ -1,0 +1,20 @@
+body {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    
+}
+
+.subtitle {
+    font-weight: bold;
+    color: brown;
+}
